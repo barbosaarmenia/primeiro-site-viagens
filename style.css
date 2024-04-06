@@ -1,0 +1,23 @@
+h1{
+    font-size: 63px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    font-size: 54px;
+    color: #414040;
+    font-weight: 600;
+}
+
+.carousel-caption h5{
+font-size: 80px;
+font-family:fantasy;
+color: #ffc107;
+text-shadow: 2px 2px 2px black;
+}
+
+
+/*a informação abaixo significa q vou especificar apenar o  link A que está linkado com nav e li*/
+/* selecionar id, usa # */
+/* selecionar class, usa .*/
